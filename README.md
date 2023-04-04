@@ -4,23 +4,20 @@
 
 ### Summary
 
-It is possible to play *.wav and *.mp3 music  
-It is a simple script, so functions such as `stop` `fast-forward` `counter` etc. are not  
-but you can use it in your spare time.  
-I will add them in my spare time.
+It is possible to play *.wav and *.mp3 music 
 
 ### pip
 
 You need to install the following libraries  
 
 ```
-pip install playsound
+pip install ~~~
 ```
 
 ### Import
 
 ```python
-from playsound import playsound
+import ~~~
 ```
 
 ## License
